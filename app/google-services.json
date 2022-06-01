@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "870414065165",
+    "project_id": "toyprj",
+    "storage_bucket": "toyprj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870414065165:android:60dbbb20bb44e4b9627f44",
+        "android_client_info": {
+          "package_name": "com.example.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870414065165-u7k7lp1kr1alul445hb7akup5pragn8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlelogin",
+            "certificate_hash": "236de796ee4fad5f525b3efa60d3993e73d18b5f"
+          }
+        },
+        {
+          "client_id": "870414065165-ts0ruu2ko0ejsbuq2jb3fcd1sa37qolv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmDqSxfRotwbSL9VQWxpoKLcpyg57rrIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870414065165-ts0ruu2ko0ejsbuq2jb3fcd1sa37qolv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
